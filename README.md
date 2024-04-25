@@ -6,8 +6,9 @@ This is a Python script to generate color scheme files for [Furnace Tracker](htt
 
 # Requirements
 
-    Python 3 and pip
-    
+- Python 3
+- pip
+
 # Installation
 
     pip install -r requirements.txt
