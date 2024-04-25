@@ -15,7 +15,7 @@ This is a Python script to generate color scheme files for [Furnace Tracker](htt
 
 # Usage
 
-First you will need to manually change the RGB values for the palette, defined as the variable PALETTE at the top of the script. The example script uses the ["Tomorrow Night"] palette. Then run the script as follows:
+First you will need to manually change the RGB values for the palette, defined as the variable PALETTE at the top of the script. The example script uses the [Tomorrow Night](https://github.com/chriskempson/tomorrow-theme/tree/master) palette. Then run the script as follows:
 
     python generate_furnace_colors.py
 
