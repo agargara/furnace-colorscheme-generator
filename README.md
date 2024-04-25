@@ -4,6 +4,10 @@ This is a Python script to generate color scheme files for [Furnace Tracker](htt
 
 ※ "closest" color being the smallest euclidean distance within CIELAB color space.
 
+# Requirements
+
+    Python 3 and pip
+    
 # Installation
 
     pip install -r requirements.txt
